@@ -21,7 +21,8 @@ classDef laranja fill:#FFA233,stroke:#000,color:#000;
 classDef vermelho fill:#E64C3C,stroke:#000,color:#000;
 
 
-🧾 Tabela de Classificação e Justificativas – Método Crystal
+
+<!-- 🧾 Tabela de Classificação e Justificativas – Método Crystal
 Nº	Cenário	Criticidade	Intensidade	Justificativa
 1	Ar-condicionado parou	C	20	Impacta conforto, mas não compromete segurança ou operação crítica
 2	Sistema bancário fora do ar	D	100	Afeta diretamente transações financeiras e confiança do cliente
@@ -38,4 +39,4 @@ Nº	Cenário	Criticidade	Intensidade	Justificativa
 13	Falha em irrigação agrícola	E	20	Prejuízo potencial à produção, mas não imediato
 14	Vazamento químico em fábrica	V	100	Alto risco à vida e ao meio ambiente
 15	Site institucional fora do ar	C	8	Impacto mínimo, sem prejuízo direto
-16	Erro em relatório financeiro	D	50	Pode gerar decisões equivocadas e prejuízo financeiro
+16	Erro em relatório financeiro	D	50	Pode gerar decisões equivocadas e prejuízo financeiro -->
